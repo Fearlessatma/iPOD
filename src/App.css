@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(88, 169, 241);
+  height: 350px;
+  width: 200px;
+}
+
+.timer{
+  width: 100%;
+  margin-bottom: 16px;
+  height: 10px;
+  border-radius: 5px;
+  outline: none;
+  filter: hue-rotate(20deg);
+}
+.view{
+  margin-top: 16px;
+}
+img{
+  height: 150px;
+  width: 150px;
+}
